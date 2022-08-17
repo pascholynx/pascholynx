@@ -14,7 +14,12 @@ I'm a Fullstack Developer in Nigeria.
 - 📫 You can [view my resume](#) and contact me by emailing dozieinya2002@gmail.com.
 
 ---
-## My Stats:
+### ⚒️: Languages :
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascholynx&langs_count=8&layout=compact&hide_border=true" alt="Chidozie's GitHub stats" />
+ 
+---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pascholynx&show_icons=true&include_all_commits=true&hide_border=true" alt="Chidozie's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascholynx&langs_count=8&layout=compact&hide_border=true" alt="Chidozie's GitHub stats" /> |
-| ------------- | ------------- |
+### 🔥: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pascholynx&theme=light=000000)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascholynx&show_icons=true&include_all_commits=true&hide_border=true" alt="Chidozie's GitHub stats" />
